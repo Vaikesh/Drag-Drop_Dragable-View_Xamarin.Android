@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="DragGesture\DragGesture.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.169.254.220.177:5555" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DragGesture\DraggableView\DragViewMainActivity.cs">
+    <Files>
+      <File FileName="DragGesture\DraggableView\DragView.cs" Line="45" Column="33" />
+      <File FileName="DragGesture\DraggableView\DragViewMainActivity.cs" Line="23" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
